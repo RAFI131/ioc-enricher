@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="450" viewBox="0 0 1440 450" role="img" aria-labelledby="t d">
+<title id="t">IOC ENRICHMENT PIPELINE</title><desc id="d">Collect context from multiple sources, preserve provenance, then assess confidence.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111e"/><stop offset="1" stop-color="#10243d"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs>
+<rect width="1440" height="450" rx="24" fill="url(#bg)"/><rect x="16" y="16" width="1408" height="418" rx="18" fill="none" stroke="#164e63" stroke-width="2"/>
+<text x="44" y="64" font-family="Arial,sans-serif" font-size="31" font-weight="700" fill="#f1f5f9">IOC ENRICHMENT PIPELINE</text>
+<text x="44" y="98" font-family="Arial,sans-serif" font-size="17" fill="#9cc3d9">Collect context from multiple sources, preserve provenance, then assess confidence.</text><path d="M40 122 H1400" stroke="url(#accent)" stroke-width="2"/>
+<rect x="38.0" y="155" width="255.2" height="222" rx="15" fill="#0a1b2d" stroke="#214765" stroke-width="1.5"/>
+<rect x="38.0" y="155" width="255.2" height="6" rx="3" fill="#22d3ee"/>
+<circle cx="63.0" cy="190" r="14" fill="#22d3ee"/><text x="63.0" y="196" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#07111e" text-anchor="middle">1</text>
+<text x="56.0" y="230" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#eff6ff">INDICATOR</text>
+<text x="56.0" y="258" font-family="Arial,sans-serif" font-size="15" fill="#b9cde0">IP · domain</text>
+<text x="56.0" y="281" font-family="Arial,sans-serif" font-size="15" fill="#b9cde0">URL · hash</text>
+<path d="M297.2 266.0 H310.2" stroke="#22d3ee" stroke-width="2.5"/><path d="M302.2 260.0 L310.2 266.0 L302.2 272.0" fill="none" stroke="#22d3ee" stroke-width="2.5"/>
+<rect x="315.2" y="155" width="255.2" height="222" rx="15" fill="#0a1b2d" stroke="#214765" stroke-width="1.5"/>
+<rect x="315.2" y="155" width="255.2" height="6" rx="3" fill="#60a5fa"/>
+<circle cx="340.2" cy="190" r="14" fill="#60a5fa"/><text x="340.2" y="196" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#07111e" text-anchor="middle">2</text>
+<text x="333.2" y="230" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#eff6ff">ENRICH</text>
+<text x="333.2" y="258" font-family="Arial,sans-serif" font-size="15" fill="#b9cde0">DNS · WHOIS</text>
+<text x="333.2" y="281" font-family="Arial,sans-serif" font-size="15" fill="#b9cde0">reputation · ASN</text>
+<path d="M574.4 266.0 H587.4" stroke="#60a5fa" stroke-width="2.5"/><path d="M579.4 260.0 L587.4 266.0 L579.4 272.0" fill="none" stroke="#60a5fa" stroke-width="2.5"/>
+<rect x="592.4" y="155" width="255.2" height="222" rx="15" fill="#0a1b2d" stroke="#214765" stroke-width="1.5"/>
+<rect x="592.4" y="155" width="255.2" height="6" rx="3" fill="#a78bfa"/>
+<circle cx="617.4" cy="190" r="14" fill="#a78bfa"/><text x="617.4" y="196" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#07111e" text-anchor="middle">3</text>
+<text x="610.4" y="230" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#eff6ff">CORRELATE</text>
+<text x="610.4" y="258" font-family="Arial,sans-serif" font-size="15" fill="#b9cde0">Time · relations</text>
+<text x="610.4" y="281" font-family="Arial,sans-serif" font-size="15" fill="#b9cde0">source agreement</text>
+<path d="M851.6 266.0 H864.6" stroke="#a78bfa" stroke-width="2.5"/><path d="M856.6 260.0 L864.6 266.0 L856.6 272.0" fill="none" stroke="#a78bfa" stroke-width="2.5"/>
+<rect x="869.6" y="155" width="255.2" height="222" rx="15" fill="#0a1b2d" stroke="#214765" stroke-width="1.5"/>
+<rect x="869.6" y="155" width="255.2" height="6" rx="3" fill="#34d399"/>
+<circle cx="894.6" cy="190" r="14" fill="#34d399"/><text x="894.6" y="196" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#07111e" text-anchor="middle">4</text>
+<text x="887.6" y="230" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#eff6ff">ASSESS</text>
+<text x="887.6" y="258" font-family="Arial,sans-serif" font-size="15" fill="#b9cde0">Confidence · context</text>
+<text x="887.6" y="281" font-family="Arial,sans-serif" font-size="15" fill="#b9cde0">limitations</text>
+<path d="M1128.8 266.0 H1141.8" stroke="#34d399" stroke-width="2.5"/><path d="M1133.8 260.0 L1141.8 266.0 L1133.8 272.0" fill="none" stroke="#34d399" stroke-width="2.5"/>
+<rect x="1146.8" y="155" width="255.2" height="222" rx="15" fill="#0a1b2d" stroke="#214765" stroke-width="1.5"/>
+<rect x="1146.8" y="155" width="255.2" height="6" rx="3" fill="#fbbf24"/>
+<circle cx="1171.8" cy="190" r="14" fill="#fbbf24"/><text x="1171.8" y="196" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#07111e" text-anchor="middle">5</text>
+<text x="1164.8" y="230" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#eff6ff">REPORT</text>
+<text x="1164.8" y="258" font-family="Arial,sans-serif" font-size="15" fill="#b9cde0">Normalised JSON/CSV</text>
+<text x="1164.8" y="281" font-family="Arial,sans-serif" font-size="15" fill="#b9cde0">references · action</text>
+<text x="44" y="414" font-family="Arial,sans-serif" font-size="14" fill="#7296ad">Design workflow for the project; source integrations are added and tested deliberately.</text></svg>

@@ -1,0 +1,5 @@
+indicator_type,indicator_value,source,observed_at,training_label,confidence,notes
+domain,cdn-update.example,synthetic-training,2026-10-23T00:00:00Z,scenario-only,not-assessed,Reserved example domain for tabletop exercises
+ipv4,203.0.113.77,synthetic-training,2026-10-23T00:00:00Z,scenario-only,not-assessed,Documentation-reserved TEST-NET-3 address
+ipv4,198.51.100.24,synthetic-training,2026-10-23T00:00:00Z,scenario-only,not-assessed,Documentation-reserved TEST-NET-2 address
+domain,example.org,synthetic-training,2026-10-23T00:00:00Z,benign-example,not-assessed,Documentation example; no reputation claim
